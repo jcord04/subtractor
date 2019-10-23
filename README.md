@@ -17,6 +17,7 @@ $ yarn install
 ## Run Instructions
 $ yarn start
 
+![alt text](https://raw.githubusercontent.com/jcord04/subtractor/master/public/screenshot.png "Subtractor")
 
 ---------------------------------
 
